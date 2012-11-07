@@ -1,0 +1,1 @@
+This is a demo of mirroring a project (html/js) to git hub pages
